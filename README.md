@@ -11,5 +11,8 @@ However, some coding errors might not appear while you run the dynamic one. So, 
 # What detects the Analysis?
 1. Programming errors: logical, syntax and semantic errors.
 2. Coding standard violations
-3. Security weaknesses <br>
-They are particulary good at finding coding issues, like buffer overflow, memory leaks and null pointers.
+3. Security weaknesses <br> <br>
+Static Analysis is particulary good at finding coding issues, like buffer overflow, memory leaks and null pointers.
+# Limitations
+# Online Tool
+# Offline Tool
