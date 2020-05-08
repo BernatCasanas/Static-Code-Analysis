@@ -80,3 +80,10 @@ In three simple steps, you can add a static code analysis to your project:
 3. Click on full scan
 
 ### Tools
+* List of errors
+   * Severity
+   * Title
+   * Description
+   * File
+   * Line
+* Graphic
