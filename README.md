@@ -88,7 +88,18 @@ In three simple steps, you can add a static code analysis to your project:
    * Line
   
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/2.png)
+In a single page, the software will show you all the issues that your project have. 
 * Graphic
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/1.png)
 It shows a graph of the total lines/ whitelines / comments / unfinished flags / dangerous code. <br>
 All of this is drawn and put in brackets.
+
+# Sources
+* [Perforce](https://www.perforce.com/blog/sca/what-static-analysis)
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
+* [Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+* [Codegrip](https://www.codegrip.tech/productivity/guide-to-static-code-analysis/)
+* [Youtube](https://www.youtube.com/watch?v=d_BCGvXbpKs)
+* [Youtube](https://www.youtube.com/watch?v=Heor8BVa4A0)
+* [Codacy](https://app.codacy.com/)
+* [VisualCodeGrepper](https://sourceforge.net/projects/visualcodegrepp/files/)
