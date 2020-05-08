@@ -1,6 +1,6 @@
 # Static Code Analysis - Bernat Casañas
 I am Bernat Casañas Masip [(Linkedin)](https://www.linkedin.com/in/bernat-casa%C3%B1as-masip-a91537160/), student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of lecturer Marc Garrigó. <br>
-#Introduction
+# Introduction
 I will talk about how to save a lot of hours in your life analysing code in search of invisible errors like memory leaks, unnecessary lines and alot of things that can make your project a better one. I will show you two different options, on of them online, and the other one offline.
 # What is Static Code Analysis?
 Static code analysis is a method of debugging by examining source code before a program is run. It’s done by analyzing a set of code against a set (or multiple sets) of coding rules. This type of analysis addresses weaknesses in source code that might lead to vulnerabilities. Of course, this may also be achieved through manual code reviews. But using automated tools is much more effective. <br>
@@ -42,6 +42,20 @@ int divide(void)
     return (10/x);
 }
 ```
-
 # Online Tool
+## Codacy
+What Codacy does? Automatically identify issues through static code review analysis. Get notified on security issues, code coverage, code duplication, and code complexity in every commit and pull request, directly from your current workflow. <br>
+In three simple steps, you can add a static code analysis to your project:
+1. Add your git repository
+2. Codacy automatically detects issues
+3. Get notified and take action
+### Tools
+* Progression Graphic
+* Visual Branches
+* Mistakes per Commit
+* Visual Errors in Files
+* List of Errors
+* Pull Request List
+
+
 # Offline Tool
