@@ -9,7 +9,7 @@ Static code analysis is a method of debugging by examining source code before a 
 I want to talk about the difference between dynamic and static analysis. Both of them detect defects, but the difference is where they find defects in the development lifecycle. Static analysis identifies defects before you run a program and dynamic analysis do it after. <br>
 However, some coding errors might not surface during unit testing. So, there are defects that dynamic testing might miss that static code analysis can find.
 # What detects the Analysis?
-1. Programming errors
+1. Programming errors: logical, syntax and semantic errors.
 2. Coding standard violations
-3. security weaknesses
+3. Security weaknesses <br>
 They are particulary good at finding coding issues, like buffer overflow, memory leaks and null pointers.
