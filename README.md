@@ -87,3 +87,6 @@ In three simple steps, you can add a static code analysis to your project:
    * File
    * Line
 * Graphic
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/1.png)
+It shows a graph of the total lines/ whitelines / comments / unfinished flags / dangerous code. <br>
+All of this is drown and put in brackets.
