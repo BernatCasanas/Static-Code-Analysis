@@ -66,3 +66,11 @@ In three simple steps, you can add a static code analysis to your project:
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/dfsdf.JPG)
 
 # Offline Tool
+## Visual Code Grepper
+What VCG does? Automatically identify issues through static code review analysis. Get notified on buffer overflows, signed/unsigned comparisons, ranking by severity the results, broken code, toDo comments and percentages of the lines/bugs/whitelines. <br>
+In three simple steps, you can add a static code analysis to your project:
+1. Download the software
+2. insert the file directory in the text field
+3. Click on full scan
+
+### Tools
