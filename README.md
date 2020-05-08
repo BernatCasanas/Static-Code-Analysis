@@ -18,11 +18,30 @@ However, some coding errors might not appear while you run the dynamic one. So, 
 Static Analysis is particulary good at finding coding issues, like buffer overflow, memory leaks and null pointers.
 # Limitations
 1. No understanding of developer intent
+We can't know the developer's intentions. Static code analysis can't know that you were expecting to get the area with a length + width.
 ```c++
 int calculateArea(int length, int width)
 {
     return (length + width);
 }
 ```
+2. The result cannot be known.
+This means that the tools may not report actual defects. The code will stop when x = 0. The static analysis can't know that this is going to happen.
+```c++
+int divide(void)
+{
+    int x;
+    if(foo())
+    {
+        x = 0;
+    }
+    else
+    {
+        x = 5;
+    }
+    return (10/x);
+}
+```
+
 # Online Tool
 # Offline Tool
