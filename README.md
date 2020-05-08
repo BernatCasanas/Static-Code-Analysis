@@ -50,6 +50,7 @@ In three simple steps, you can add a static code analysis to your project:
 1. Add your git repository
 2. Codacy automatically detects issues
 3. Get notified and take action
+
 ### Tools
 * Progression Graphic
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image.png?raw=true)
