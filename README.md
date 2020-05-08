@@ -42,6 +42,7 @@ int divide(void)
     return (10/x);
 }
 ```
+
 # Online Tool
 ## Codacy
 What Codacy does? Automatically identify issues through static code review analysis. Get notified on security issues, code coverage, code duplication, and code complexity in every commit and pull request, directly from your current workflow. <br>
