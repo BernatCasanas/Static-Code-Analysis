@@ -51,11 +51,16 @@ In three simple steps, you can add a static code analysis to your project:
 3. Get notified and take action
 ### Tools
 * Progression Graphic
-* Visual Branches
-* Mistakes per Commit
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image.png?raw=true)
+* Mistakes per Commit & Visual Branches
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(1).png)
 * Visual Errors in Files
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(3).png?raw=true)
 * List of Errors
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(4).png)
 * Pull Request List
-
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/Captura.JPG)
+* Security
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/dfsdf.JPG)
 
 # Offline Tool
