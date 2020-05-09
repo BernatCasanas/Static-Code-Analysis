@@ -65,7 +65,7 @@ In three simple steps, you can add a static code analysis to your project:
 2. Codacy automatically detects issues
 3. Get notified and take action
 
-![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/video.mp4)
+[![](http://img.youtube.com/vi/HYohl3VthUA/0.jpg)](http://www.youtube.com/watch?v=HYohl3VthUA "")
 
 ### Codacy Tools
 * Progression Graphic
