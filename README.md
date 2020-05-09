@@ -3,15 +3,15 @@ I am Bernat Casañas Masip [(Linkedin)](https://www.linkedin.com/in/bernat-casa%
 
 # Index
 * [Introduction](#Introduction)
-* [What is Static Code Analysis?](#What is Static Code Analysis?)
-* [Static Analysis vs. Dynamic Analysis](#Static Analysis vs. Dynamic Analysis)
+* [What is Static Code Analysis?](#What-is-Static-Code-Analysis?)
+* [Static Analysis vs. Dynamic Analysis](#Static-Analysis-vs.-Dynamic-Analysis)
 * [Limitations](#Limitations)
-* [Online Tool](#Online Tool)
+* [Online Tool](#Online-Tool)
     * [Codacy](#Codacy)
-    * [Codacy Tools](#Codacy Tools)
-* [Offline Tool](#Offline Tool)
-    * [Visual Code Grepper](#Visual Code Grepper)
-    * [VCG Tools](#VCG Tools)
+    * [Codacy Tools](#Codacy-Tools)
+* [Offline Tool](#Offline-Tool)
+    * [Visual Code Grepper](#Visual-Code-Grepper)
+    * [VCG Tools](#VCG-Tools)
 * [Sources](#Sources)
 
 # Introduction
