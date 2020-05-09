@@ -90,6 +90,7 @@ In three simple steps, you can add a static code analysis to your project:
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/2.png?raw=true)
 In a single page, the software will show you all the issues that your project have. <br>
 * Graphic
+
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/1.png?raw=true)
 It shows a graph of the total lines/ whitelines / comments / unfinished flags / dangerous code. <br>
 All of this is drawn and put in brackets.<br>
