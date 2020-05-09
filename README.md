@@ -4,7 +4,7 @@ I am Bernat Casañas Masip [(Linkedin)](https://www.linkedin.com/in/bernat-casa%
 I will talk about how to save a lot of hours in your life analysing code in search of invisible errors like memory leaks, unnecessary lines and alot of things that can make your project a better one. I will show you two different options, on of them online, and the other one offline.
 # What is Static Code Analysis?
 Static code analysis is a method of debugging by examining source code before a program is run. It’s done by analyzing a set of code against a set (or multiple sets) of coding rules. This type of analysis addresses weaknesses in source code that might lead to vulnerabilities. Of course, this may also be achieved through manual code reviews. But using automated tools is much more effective. <br>
-![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/image-blog-what-is-static-analysis.jpg)
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/image-blog-what-is-static-analysis.jpg?raw=true)
 # Static Analysis vs. Dynamic Analysis
 I want to talk about the difference between dynamic and static analysis. Both of them detect defects, but the difference is where they find them. Static analysis identifies defects before you run a program and dynamic analysis do it after. <br>
 However, some coding errors might not appear while you run the dynamic one. So, there are defects that dynamic testing might miss that static code analysis can find.
@@ -56,19 +56,19 @@ In three simple steps, you can add a static code analysis to your project:
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image.png?raw=true)
 It shows a graphic of the last 30 days issues. <br>
 * Mistakes per Commit & Visual Branches
-![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(1).png)
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(1).png?raw=true)
 It shows the issues per commit and all the branch flow.<br>
 * Visual Errors in Files
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(3).png?raw=true)
 It shows the issues in each file.<br>
 * List of Errors
-![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(4).png)
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(4).png?raw=true)
 It shows a wide list of issues<br>
 * Pull Request List
-![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/Captura.JPG)
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/Captura.JPG?raw=true)
 It shows a list of all the pendent pull requests<br>
 * Security
-![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/dfsdf.JPG)
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/dfsdf.JPG?raw=true)
 It shows a list of security problems that your project can contain.<br>
 
 # Offline Tool
@@ -87,10 +87,10 @@ In three simple steps, you can add a static code analysis to your project:
    * File
    * Line
   
-![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/2.png)
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/2.png?raw=true)
 In a single page, the software will show you all the issues that your project have. <br>
 * Graphic
-![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/1.png)
+![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/1.png?raw=true)
 It shows a graph of the total lines/ whitelines / comments / unfinished flags / dangerous code. <br>
 All of this is drawn and put in brackets.<br>
 
