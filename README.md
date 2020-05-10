@@ -1,5 +1,5 @@
 # Static Code Analysis - Bernat Casañas
-I am Bernat Casañas Masip [(Linkedin)](https://www.linkedin.com/in/bernat-casa%C3%B1as-masip-a91537160/), student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of lecturer Marc Garrigó. <br>
+I am Bernat Casañas Masip [(Linkedin)](https://www.linkedin.com/in/bernat-casa%C3%B1as-masip-a91537160/), student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of lecturer Marc Garrigó. [(Linkedin)](https://www.linkedin.com/in/mgarrigo/)<br>
 
 [WebPage](https://bernatcasanas.github.io/Static-Code-Analysis/)
 
