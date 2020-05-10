@@ -66,6 +66,12 @@ In three simple steps, you can add a static code analysis to your project:
 3. Get notified and take action
 
 [![](http://img.youtube.com/vi/9kh8DA-To6w/0.jpg)](http://www.youtube.com/watch?v=9kh8DA-To6w "")
+<iframe src="http://www.youtube.com/watch?v=9kh8DA-To6{{ include.id }}" 
+    width="560" 
+    height="315"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
 ### Codacy Tools
 * Progression Graphic
