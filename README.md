@@ -85,7 +85,7 @@ It shows the issues in each file. It will also grade the code od the file.<br>
 * List of Errors
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(4).png?raw=true)
 
-It shows a wide list of issues. I don't recomend to look at them too much, it's better to look at them with an organization (in each file and with visually feedback).<br>
+It shows a wide list of issues. I don't recomend to look at them, but with an organization (in each file and with visually feedback).<br>
 * Pull Request List
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/Captura.JPG?raw=true)
 
@@ -93,7 +93,7 @@ It shows a list of all the pendent pull requests and how many issues have each o
 * Security
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/dfsdf.JPG?raw=true)
 
-It shows a list of security problems that your project can contain. This is not an important option for us but important if you have a project with comercial purpose<br>
+It shows a list of security problems that your project can contain. This is not an important option for us but it is if you have a project with comercial purpose<br>
 
 # Offline Tool
 ## Visual Code Grepper
