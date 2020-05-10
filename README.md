@@ -66,32 +66,34 @@ In three simple steps, you can add a static code analysis to your project:
 3. Get notified and take action
 
 [![](http://img.youtube.com/vi/9kh8DA-To6w/0.jpg)](http://www.youtube.com/watch?v=9kh8DA-To6w "")
-<iframe src="http://www.youtube.com/watch?v=9kh8DA-To6{{ include.id }}" 
-    width="560" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+<br>
+Here is the tutorial of how to link your project to Codacy. After that, you will have in the left menu all the options that i will explain below.
 
 ### Codacy Tools
 * Progression Graphic
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image.png?raw=true)
-It shows a graphic of the last 30 days issues. <br>
+
+It shows a graphic of the last 30 days issues. You will have also all the issues in every section (security, error prone, etc). <br>
 * Mistakes per Commit & Visual Branches
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(1).png?raw=true)
-It shows the issues per commit and all the branch flow.<br>
+
+It shows all the commits of the project and how many issues were made in each one. It will show you also the branch flow.<br>
 * Visual Errors in Files
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(3).png?raw=true)
-It shows the issues in each file.<br>
+
+It shows the issues in each file. It will also grade the code od the file.<br>
 * List of Errors
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/image%20(4).png?raw=true)
-It shows a wide list of issues<br>
+
+It shows a wide list of issues. I don't recomend to look at them too much, it's better to look at them with an organization (in each file and with visually feedback).<br>
 * Pull Request List
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/Captura.JPG?raw=true)
-It shows a list of all the pendent pull requests<br>
+
+It shows a list of all the pendent pull requests and how many issues have each one. This is important to avoid merging branches with issues.<br>
 * Security
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/Codacy/dfsdf.JPG?raw=true)
-It shows a list of security problems that your project can contain.<br>
+
+It shows a list of security problems that your project can contain. This is not an important option for us but important if you have a project with comercial purpose<br>
 
 # Offline Tool
 ## Visual Code Grepper
@@ -102,6 +104,7 @@ In three simple steps, you can add a static code analysis to your project:
 3. Click on full scan
 
 [![](http://img.youtube.com/vi/HYohl3VthUA/0.jpg)](http://www.youtube.com/watch?v=HYohl3VthUA "")
+Here is the tutorial of how to link your project to VCG. After that, you will have in the left menu all the options that i will explain below.
 
 ### VCG Tools
 * List of errors
@@ -112,12 +115,12 @@ In three simple steps, you can add a static code analysis to your project:
    * Line
   
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/2.png?raw=true)
-In a single page, the software will show you all the issues that your project have. <br>
+In a single page, the software will show you all the issues that your project have. It will also show the issues of the SDL library, so be careful touching something or having a mental breakdown when you see how many issues has. <br>
 * Graphic
 
 ![](https://github.com/BernatCasanas/Static-Code-Analysis/blob/master/Research%20Images/VCG/1.png?raw=true)
 It shows a graph of the total lines/ whitelines / comments / unfinished flags / dangerous code. <br>
-All of this is drawn and put in brackets.<br>
+All of this is drawn and put in brackets. This is not a very usefull tool, just for curiousity purposes.<br>
 
 # Sources
 * [Perforce](https://www.perforce.com/blog/sca/what-static-analysis)
