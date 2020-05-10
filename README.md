@@ -65,7 +65,7 @@ In three simple steps, you can add a static code analysis to your project:
 2. Codacy automatically detects issues
 3. Get notified and take action
 
-@[youtube](https://www.youtube.com/watch?v=HYohl3VthUA)
+[![](http://img.youtube.com/vi/9kh8DA-To6w/0.jpg)](http://www.youtube.com/watch?v=9kh8DA-To6w "")
 
 ### Codacy Tools
 * Progression Graphic
@@ -94,6 +94,8 @@ In three simple steps, you can add a static code analysis to your project:
 1. Download the software
 2. insert the file directory in the text field
 3. Click on full scan
+
+[![](http://img.youtube.com/vi/HYohl3VthUA/0.jpg)](http://www.youtube.com/watch?v=HYohl3VthUA "")
 
 ### VCG Tools
 * List of errors
